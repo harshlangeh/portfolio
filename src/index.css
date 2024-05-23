@@ -1,0 +1,9 @@
+/* styling applied to every single element of webpage */
+
+*{
+  /* border is considered when calculating the width and height of object*/
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "outfit", Arial, Helvetica, sans-serif;
+}
